@@ -1,9 +1,3 @@
-C'est un classique incontournable ! Le projet "To-Do List" est le meilleur moyen de montrer que tu maîtrises le concept CRUD (Create, Read, Update, Delete) et la persistance des données (sauvegarder des infos dans un fichier JSON ou TXT pour qu'elles ne disparaissent pas quand on ferme le programme).
-
-Voici le README optimisé, toujours en anglais B1/B2, structuré pour mettre en valeur ces compétences techniques.
-
-Markdown
-
 <div align="center">
 
 # ✅ Python To-Do List
@@ -61,3 +55,4 @@ This project demonstrates the following Python skills:
 | **Git** | Version control. |
 
 ---
+
